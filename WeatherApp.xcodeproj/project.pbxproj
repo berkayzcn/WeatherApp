@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9876615828E6E4CF0066262C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9876615728E6E4CF0066262C /* DetailViewController.swift */; };
 		98F6CF4328E6C97000E8A031 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F6CF4228E6C97000E8A031 /* AppDelegate.swift */; };
 		98F6CF4528E6C97000E8A031 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F6CF4428E6C97000E8A031 /* SceneDelegate.swift */; };
 		98F6CF4728E6C97000E8A031 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F6CF4628E6C97000E8A031 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9876615728E6E4CF0066262C /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		98F6CF3F28E6C97000E8A031 /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		98F6CF4228E6C97000E8A031 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		98F6CF4428E6C97000E8A031 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				98F6CF4B28E6C97200E8A031 /* Assets.xcassets */,
 				98F6CF4D28E6C97200E8A031 /* LaunchScreen.storyboard */,
 				98F6CF5028E6C97200E8A031 /* Info.plist */,
+				9876615728E6E4CF0066262C /* DetailViewController.swift */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				98F6CF4728E6C97000E8A031 /* ViewController.swift in Sources */,
 				98F6CF4328E6C97000E8A031 /* AppDelegate.swift in Sources */,
 				98F6CF4528E6C97000E8A031 /* SceneDelegate.swift in Sources */,
+				9876615828E6E4CF0066262C /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
